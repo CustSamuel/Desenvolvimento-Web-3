@@ -1,0 +1,4 @@
+C:\Users\0201392521012\Desktop\Lista_LINQ\Exercicio1\obj\Debug\net8.0\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392521012\Desktop\Lista_LINQ\Exercicio1\obj\Debug\net8.0\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\0201392521012\Desktop\Lista_LINQ\Exercicio1\obj\Debug\net8.0\Exercicio1.AssemblyInfo.cs
+C:\Users\0201392521012\Desktop\Lista_LINQ\Exercicio1\obj\Debug\net8.0\Exercicio1.csproj.CoreCompileInputs.cache
